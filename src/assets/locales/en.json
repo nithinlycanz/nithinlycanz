@@ -6,8 +6,8 @@
         "contacts": "contacts"
     },
     "footer": {
-        "description": "Web designer and front-end developer based in Ukraine",
-        "copyright": "Copyright 2022. Made by Elias",
+        "description": "Web designer and front-end developer based in India",
+        "copyright": "Copyright 2023. Made by Nithin",
         "media": "Media"
     },
     "skills": {
@@ -70,7 +70,7 @@
     "pages": {
         "home": {
             "hero": {
-                "title": "Elias is a <span>web designer</span> and <span>front-end</span> developer",
+                "title": "Nithin is a <span>web designer</span> and <span>front-end</span> developer",
                 "description": "He crafts responsive websites where technologies meet creativity",
                 "button": "Contact ME",
                 "status": "Currently working on "
@@ -89,7 +89,7 @@
             "about": {
                 "title": "about",
                 "description": [
-                    "I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
+                    "I’m a self-taught front-end developer based in Kerala, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
                     "Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks."
                 ],
                 "button": "View all"
@@ -111,7 +111,7 @@
             "description": "Who am i",
             "about": {
                 "description": [
-                    "I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
+                    "I’m a self-taught front-end developer based in Kerala, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
                     "Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. ",
                     "I always strive to learn about the newest technologies and frameworks. "
                 ]
@@ -126,7 +126,7 @@
                     "I often bike with my friends",
                     "I like pizza and pasta", 
                     "I was in Egypt, Poland and Turkey",
-                    "I’m still studying in school", 
+                    "I’m still studying in college", 
                     "My favorite movie is The Green Mile"
                 ]
             }
