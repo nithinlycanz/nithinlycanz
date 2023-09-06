@@ -1,16 +1,15 @@
-### Hi there 👋
+# My Portfolio #
+Written in vanilla js.
 
-<!--
-**nithinlycanz/nithinlycanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you have any questions you can message me on discord: **lycanz#5984**  
+*PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  
 
-Here are some ideas to get you started:
+**FIGMA**: https://www.figma.com/community/file  
+**LIVE**: https://nithinlycanz.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## TODO ##
+- [ ] Page contacts
+- [ ] Blog maybe
+- [ ] Animation
+- [ ] Improve images
+- [ ] Delete unused code
