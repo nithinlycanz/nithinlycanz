@@ -1,3 +1,4 @@
+HEYYA BUDDY 😎✨
 # My Portfolio #
 Written in vanilla js.
 
@@ -46,4 +47,4 @@ Step 6
         tah dah ... 
 
 
-ALL THE BEST BUDDY 😎✨
+
