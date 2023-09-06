@@ -14,6 +14,7 @@ If you have any questions you can message me on discord: **lycanz#5984**
 - [ ] Improve images
 - [ ] Delete unused code
 
+Basic for using my code is given here 
 
 Step 1
         go to main index.js and run it
@@ -43,3 +44,6 @@ Step 5
 
 Step 6 
         tah dah ... 
+
+
+ALL THE BEST BUDDY 😎✨
