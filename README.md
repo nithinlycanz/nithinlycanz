@@ -30,12 +30,11 @@ Step 2
 Step 3
         run npm script
 
-        $  npm run-script
+        $  npm run-script build
 
 Step 4
         build the script
 
-        $ npm run-script build
         $ npm run-script build serve
 
 Step 5  
