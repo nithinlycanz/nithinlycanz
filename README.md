@@ -1,7 +1,7 @@
 <div align='center'>
  
 <p align="center">
-<p><img src= "https://media.giphy.com/media/sRHVFZVZlHsOBwYTFn/giphy.gif" width="100px" height="100px">, I'm <a href = "https://peerlist.io/vaishnavikale">NithinPathayathodi</a></p>
+<p><img src= "https://media.giphy.com/media/sRHVFZVZlHsOBwYTFn/giphy.gif" width="250px" height="250px">, I'm <a href = "https://peerlist.io/vaishnavikale">NithinPathayathodi</a></p>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+tech+enthusiast%2C+explorer%2C;and+love+solving+problems+;creatively+using+gamification" alt="Typing SVG" /></a>
 </div>
