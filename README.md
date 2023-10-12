@@ -41,7 +41,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
  <p align='center'>
- <img src="https://github.com/nithinlycanz/nithinlycanz/blob/main/lol.svg"/>
+ <img src="https://github.com/nithinlycanz/nithinlycanz/blob/main/github-user-contribution.svg>
  <p>
 
 
