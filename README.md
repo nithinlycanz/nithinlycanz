@@ -41,7 +41,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
  <p align='center'>
- <img src=https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif>
+ <img src=https://github.com/nithinlycanz/nithinlycanz/blob/output/github-contribution-grid-snake.svg>
  <p>
 
 
