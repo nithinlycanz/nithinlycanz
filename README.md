@@ -28,6 +28,21 @@
 </div>
 
 
+<hr/>
+<div align="center">
+
+![repo size](https://img.shields.io/github/repo-size/nithinlycanz/nithinlycanz?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/nithinlycanz/nithinlycanz?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/nithinlycanz/nithinlycanz?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/nithinlycanz/nithinlycanz?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+ <br>
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnithinlycanz&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnithinlycanz)
+[![Github](https://img.shields.io/github/followers/nithinlycanz?label=Follow&style=social)](https://github.com/nithinlycanz)
+![](./profile-3d-contrib/profile-green-animate.svg)
+</div>
+ <p align='center'>
+ <img src="https://github.com/nithinlycanz/nithinlycanz/assets/80088403/31987900-c48b-47e4-a725-1e4afbac5313"/>
+ <p>
 
 
 If you have any questions you can message me on discord: **lycanz#5984**  
