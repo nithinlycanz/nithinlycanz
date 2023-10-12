@@ -7,6 +7,26 @@
 </div>
 
 </p>
+<div>
+<div><p><h1> Languages and Tools</h4></div></p>
+ 
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+<!--    <img src="https://skillicons.dev/icons?i=html,css,jquery,git,mysql,mongodb,firebase,java,js,r,py,tensorflow,figma,github"/> -->
+    <img src="https://skillicons.dev/icons?i=html,css,git,mysql,java,js,py,figma,github"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+<!--    <img src="https://skillicons.dev/icons?i=gitlab,androidstudio,idea,vscode,visualstudio,eclipse,idea,jenkins,docker,atom,azure,codepen"/> -->
+   <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
+  </a>
+</p>
+<br>
+</div>
+
 
 
 
