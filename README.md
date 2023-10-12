@@ -41,8 +41,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
  <p align='center'>
- <img src=https://github.com/nithinlycanz/nithinlycanz/blob/output/github-contribution-grid-snake.svg>
- <p>
+
 
 
 If you have any questions you can message me on discord: **lycanz#5984**  
