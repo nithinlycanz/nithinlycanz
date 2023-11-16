@@ -48,6 +48,6 @@
 
 
 > If you have any questions you can message me on discord: **lycanz#5984**  
-> **FIGMA**: https://www.figma.com/community/file <br>
+> **FIGMA** : https://www.figma.com/community/file <br>
 > **LIVE** : https://nithinlycanz.github.io <br>
-> **CheckOut**: [nithinp.t@mulearn](./profile/nithinp.t@mulearn.md) 
+> **CheckOut** : [nithinp.t@mulearn](./profile/nithinp.t@mulearn.md) 
