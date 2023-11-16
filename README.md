@@ -47,8 +47,7 @@
 
 
 
-If you have any questions you can message me on discord: **lycanz#5984**  
-*PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  
->> check out [nithinp.t@mulearn](./profile/nithinp.t@mulearn.md)
-**FIGMA**: https://www.figma.com/community/file  
-**LIVE** : https://nithinlycanz.github.io
+> If you have any questions you can message me on discord: **lycanz#5984**  
+> **FIGMA**: https://www.figma.com/community/file <br>
+> **LIVE** : https://nithinlycanz.github.io <br>
+> check out [nithinp.t@mulearn](./profile/nithinp.t@mulearn.md) 
