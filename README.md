@@ -1,7 +1,10 @@
+
+
 <div align='center'>
- 
 <p align="center">
-<p><img src= "https://media.giphy.com/media/jAzS2VUgF0yq6UBu7l/giphy.gif" width="200px" height="200px"><a href = "nithinlycanz.github.io"><h2>I'm NithinLycanz</h2></a></p>
+<p><img src= "https://media.giphy.com/media/jAzS2VUgF0yq6UBu7l/giphy.gif" width="250px" height="250px"> 
+ <img src= "https://github.com/nithinlycanz/nithinlycanz/assets/81744339/6e67411e-b490-4fa3-b65c-4b1fe15eed4c"  width="200px" height="200px"  >
+<a href = "nithinlycanz.github.io"><h2>I'm NithinLycanz</h2></a></p>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nithin+is+a+web+designer+;and+back-end+developer.;He+crafts+responsive+websites;where+technologies+meet+creativity." alt="Typing SVG" /></a>
 </div>
