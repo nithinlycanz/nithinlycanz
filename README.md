@@ -46,8 +46,8 @@
  <br>
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnithinlycanz&countColor=%23263759)](https://github.com/nithinlycanz)
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nithinlycanz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithinlycanz/) 
-[![Github](https://img.shields.io/github/followers/nithinlycanz?label=Follow&style=social)](https://github.com/nithinlycanz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nithinlycanz/) 
+[![Github](https://img.shields.io/github/followers/nithinlycanz?label=Follow&style=social&color=black&style=for-the-badge)](https://github.com/nithinlycanz)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nithinlycanz)
 
 </div>
