@@ -39,15 +39,16 @@
  
 
 ![](https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white)
+![img](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg?&style=for-the-badge)
 [![repo size](https://img.shields.io/github/repo-size/nithinlycanz/nithinlycanz?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)](https://github.com/nithinlycanz)
 [![GitHub forks](https://img.shields.io/github/forks/nithinlycanz/nithinlycanz?&labelColor=black&color=0fb9b1&style=for-the-badge)](https://github.com/nithinlycanz)
-[![GitHub stars](https://img.shields.io/github/stars/nithinlycanz/nithinlycanz?&labelColor=black&color=f7b731&style=for-the-badge)](https://github.com/nithinlycanz)
+[![GitHub stars](https://img.shields.io/github/stars/nithinlycanz?&labelColor=black&color=f7b731&style=for-the-badge)](https://github.com/nithinlycanz)
 [![GitHub LastCommit](https://img.shields.io/github/last-commit/nithinlycanz/nithinlycanz?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)](https://github.com/nithinlycanz)
  <br>
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnithinlycanz&countColor=%23263759)](https://github.com/nithinlycanz)
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nithinlycanz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nithinlycanz/) 
-[![Github](https://img.shields.io/github/followers/nithinlycanz?label=Follow&style=social&color=black&style=for-the-badge)](https://github.com/nithinlycanz)
+[![Github follow](https://img.shields.io/github/followers/nithinlycanz?label=Follow&color=black&style=for-the-badge)](https://github.com/nithinlycanz)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nithinlycanz)
 
 </div>
