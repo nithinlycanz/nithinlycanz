@@ -44,12 +44,13 @@
 [![GitHub forks](https://img.shields.io/github/forks/nithinlycanz/nithinlycanz?&labelColor=black&color=0fb9b1&style=for-the-badge)](https://github.com/nithinlycanz)
 [![GitHub stars](https://img.shields.io/github/stars/nithinlycanz?&labelColor=black&color=f7b731&style=for-the-badge)](https://github.com/nithinlycanz)
 [![GitHub LastCommit](https://img.shields.io/github/last-commit/nithinlycanz/nithinlycanz?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)](https://github.com/nithinlycanz)
- <br>
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnithinlycanz&countColor=%23263759)](https://github.com/nithinlycanz)
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nithinlycanz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nithinlycanz/) 
 [![Github follow](https://img.shields.io/github/followers/nithinlycanz?label=Follow&color=black&style=for-the-badge)](https://github.com/nithinlycanz)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nithinlycanz)
+<img src="https://img.shields.io/badge/TypeScript%20-%23E00033.svg?&style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/NestJS%20-%2300599C.svg?&style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/firebase%20-%23777BB4.svg?&style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+
 
 </div>
  <p align='center'>
